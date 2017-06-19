@@ -1,24 +1,14 @@
-# README
+A Weekend Project that is still in development.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created a version of reddit where the focused user market would be people of color.
 
-Things you may want to cover:
+Used Ruby-On-Rails and looking to implement Angular or React in the Future
 
-* Ruby version
+Inspired by Mackenzie Child's Raddit Clone
 
-* System dependencies
+To Install:
+Clone Directory
+Run Bundle Install
+Run Rails server
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+c. Kory J. Campbell '2017
